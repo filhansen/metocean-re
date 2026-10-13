@@ -8,3 +8,4 @@ from .aux_funcs import *
 from . import turbines
 from .profile import *
 from .stability import *
+from .turbulence import *
