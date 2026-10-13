@@ -9,3 +9,4 @@ from . import turbines
 from .profile import *
 from .stability import *
 from .turbulence import *
+from .wind_power import *
