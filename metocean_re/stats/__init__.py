@@ -1,0 +1,7 @@
+"""
+This is the Stats-module that contains functions for wind energy from metocean data.
+
+Turbines are kept in their own namespace (stats.turbines.get(15), stats.turbines.add(...)).
+"""
+
+from .aux_funcs import *
