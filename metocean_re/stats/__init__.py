@@ -11,3 +11,4 @@ from .stability import *
 from .turbulence import *
 from .wind_power import *
 from .wind_losses import *
+from .wind_loads import *
