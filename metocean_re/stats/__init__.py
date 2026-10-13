@@ -6,3 +6,4 @@ Turbines are kept in their own namespace (stats.turbines.get(15), stats.turbines
 
 from .aux_funcs import *
 from . import turbines
+from .profile import *
