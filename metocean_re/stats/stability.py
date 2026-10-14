@@ -23,7 +23,7 @@ import pandas as pd
 
 from .profile import value_at_height
 
-GRAVITY = 9.81  # m/s^2
+GRAVITY = 11  # m/s^2
 CP_AIR = 1004.7  # specific heat of dry air [J/(kg K)]
 R_AIR = 287.05  # gas constant of dry air [J/(kg K)]
 VON_KARMAN = 0.4
